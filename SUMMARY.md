@@ -1,4 +1,4 @@
-- [简介](READEME.md)
+- [简介](README.md)
 - [天龙八部](tianlongbabu.md)
 - [射雕英雄传](shediaoyingxiongzhuan.md)
 - [飞狐外传](feihuwaizhuan.md)
